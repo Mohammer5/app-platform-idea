@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"POT-Creation-Date: 2021-10-12T12:20:51.045Z\n"
+"PO-Revision-Date: 2021-10-12T12:20:51.045Z\n"
+
+msgid "An error occurred in the DHIS2 application."
+msgstr "An error occurred in the DHIS2 application."
+
+msgid "Technical details copied to clipboard"
+msgstr "Technical details copied to clipboard"
+
+msgid "Something went wrong"
+msgstr "Something went wrong"
+
+msgid "Try again"
+msgstr "Try again"
+
+msgid "Hide technical details"
+msgstr "Hide technical details"
+
+msgid "Show technical details"
+msgstr "Show technical details"
+
+msgid "The following information may be requested by technical support."
+msgstr "The following information may be requested by technical support."
+
+msgid "Copy technical details to clipboard"
+msgstr "Copy technical details to clipboard"
+
+msgid "Please sign in"
+msgstr "Please sign in"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Sign in"
+msgstr "Sign in"
+
+msgid "Save your data"
+msgstr "Save your data"
+
+msgid ""
+"Updating will reload all {{n}} open instances of this app, and any unsaved "
+"data will be lost. Save any data you need to, then click 'Reload' when "
+"ready."
+msgstr ""
+"Updating will reload all {{n}} open instances of this app, and any unsaved "
+"data will be lost. Save any data you need to, then click 'Reload' when "
+"ready."
+
+msgid ""
+"Updating will reload all open instances of this app, and any unsaved data "
+"will be lost. Save any data you need to, then click 'Reload' when ready."
+msgstr ""
+"Updating will reload all open instances of this app, and any unsaved data "
+"will be lost. Save any data you need to, then click 'Reload' when ready."
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Reload"
+msgstr "Reload"
+
+msgid "There's an update available for this app."
+msgstr "There's an update available for this app."
+
+msgid "Update and reload"
+msgstr "Update and reload"
+
+msgid "Not now"
+msgstr "Not now"

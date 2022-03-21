@@ -1,0 +1,63 @@
+{
+    "name": "example-app",
+    "version": "9.0.0",
+    "description": "",
+    "license": "BSD-3-Clause",
+    "private": true,
+    "scripts": {
+        "build": "d2-app-scripts build",
+        "start": "react-scripts start",
+        "test": "react-scripts test",
+        "deploy": "d2-app-scripts deploy"
+    },
+    "devDependencies": {
+        "@dhis2/cli-app-scripts": "^9.0.0",
+        "@testing-library/jest-dom": "^5.16.2",
+        "@testing-library/react": "^12.1.4",
+        "@testing-library/user-event": "^13.5.0",
+        "enzyme": "^3.11.0",
+        "enzyme-adapter-react-16": "^1.15.5",
+        "react": "^16.8",
+        "react-dom": "^16.8",
+        "react-scripts": "5.0.0",
+        "web-vitals": "^2.1.4"
+    },
+    "dependencies": {
+        "@dhis2/app-runtime": "^3.4.0",
+        "@dhis2/d2-i18n": "^1",
+        "@dhis2/ui": ">=7",
+        "classnames": "^2",
+        "idb": "^6.0.0",
+        "moment": "^2",
+        "prop-types": "^15",
+        "react": "^16.8",
+        "react-dom": "^16.8",
+        "styled-jsx": "^4",
+        "workbox-core": "^6.1.5",
+        "workbox-precaching": "^6.1.5",
+        "workbox-routing": "^6.1.5",
+        "workbox-strategies": "^6.1.5"
+    },
+    "peerDependencies": {
+        "react": "^16.8",
+        "react-dom": "^16.8"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "main": "./build/cjs/app/index.js",
+    "module": "./build/es/app/index.js",
+    "exports": {
+        "import": "./build/es/app/index.js",
+        "require": "./build/cjs/app/index.js"
+    }
+}

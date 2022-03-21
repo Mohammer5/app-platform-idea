@@ -1,0 +1,23 @@
+{
+    "An error occurred in the DHIS2 application.": "An error occurred in the DHIS2 application.",
+    "Technical details copied to clipboard": "Technical details copied to clipboard",
+    "Something went wrong": "Something went wrong",
+    "Try again": "Try again",
+    "Hide technical details": "Hide technical details",
+    "Show technical details": "Show technical details",
+    "The following information may be requested by technical support.": "The following information may be requested by technical support.",
+    "Copy technical details to clipboard": "Copy technical details to clipboard",
+    "Please sign in": "Please sign in",
+    "Server": "Server",
+    "Username": "Username",
+    "Password": "Password",
+    "Sign in": "Sign in",
+    "Save your data": "Save your data",
+    "Updating will reload all {{n}} open instances of this app, and any unsaved data will be lost. Save any data you need to, then click 'Reload' when ready.": "Updating will reload all {{n}} open instances of this app, and any unsaved data will be lost. Save any data you need to, then click 'Reload' when ready.",
+    "Updating will reload all open instances of this app, and any unsaved data will be lost. Save any data you need to, then click 'Reload' when ready.": "Updating will reload all open instances of this app, and any unsaved data will be lost. Save any data you need to, then click 'Reload' when ready.",
+    "Cancel": "Cancel",
+    "Reload": "Reload",
+    "There's an update available for this app.": "There's an update available for this app.",
+    "Update and reload": "Update and reload",
+    "Not now": "Not now"
+}

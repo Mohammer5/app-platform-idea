@@ -1,0 +1,5 @@
+# DHIS2 Platform
+node_modules
+src/locales
+build
+!cli/src/commands/build
